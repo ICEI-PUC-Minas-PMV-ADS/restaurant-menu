@@ -8,7 +8,7 @@
 
 Uma página que vai mostrar o cardápio de um restaurante, permite o cliente vizualizar e fazer o pedido através dele. Totalmente customizável para a adição de novos itens do cardápio.
 
-## Integrantes
+## Integrante
 
 * César Pereira dos Santos Filho
 
