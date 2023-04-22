@@ -1,20 +1,23 @@
-# RESTAURANT MENU
+# TÍTULO DO PROJETO
 
 `Analise e Desenvolvimento de Sistemas`
 
-`Desenvolvimento Front-end`
+`Desenvolvimento front-end`
 
-`1º Semestre`
+`EIXO-1`
 
-Uma página que vai mostrar o cardápio de um restaurante, permite o cliente vizualizar e fazer o pedido através dele. Totalmente customizável para a adição de novos itens do cardápio.
+Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
-## Integrante
+## Integrantes
 
 * César Pereira dos Santos Filho
+* Nome completo do aluno 2
+* Nome completo do aluno 3
+* Nome completo do aluno 4
 
 ## Orientador
 
-* Nome completo do professor 1
+* Diego Silva Caldeira Rocha
 
 ## Instruções de utilização
 
